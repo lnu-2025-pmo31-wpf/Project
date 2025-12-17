@@ -1,0 +1,299 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\data\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\data\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\data\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\data\\kindergartendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\data\\kindergartendbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\groupdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\childdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\childdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\teacher_portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\teacher_portal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\teacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\teacherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\useraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|d:\\c#\\project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\admin_edit_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\admin_edit_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\admin_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\admin_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\admin_kinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\admin_kinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\admin_personnelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\admin_personnelcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\administrator_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\administrator_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\logging_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\logging_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\project_kindergarten\\admin_add_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2FF9142B-14E7-4F6C-BE1B-CE96E9BAC430}|Project_kindergarten\\Project_kindergarten.csproj|solutionrelative:project_kindergarten\\admin_add_groups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Data\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\Data\\PasswordHasher.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Data\\PasswordHasher.cs",
+              "RelativeToolTip": "Project_kindergarten\\Data\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:10:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KindergartenDbContext.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Data\\KindergartenDbContext.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\Data\\KindergartenDbContext.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Data\\KindergartenDbContext.cs",
+              "RelativeToolTip": "Project_kindergarten\\Data\\KindergartenDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:10:37.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Data\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\Data\\DbInitializer.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Data\\DbInitializer.cs",
+              "RelativeToolTip": "Project_kindergarten\\Data\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMEAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:10:01.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupData.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\GroupData.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\GroupData.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\GroupData.cs",
+              "RelativeToolTip": "Project_kindergarten\\GroupData.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:02:09.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChildData.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\ChildData.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\ChildData.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\ChildData.cs",
+              "RelativeToolTip": "Project_kindergarten\\ChildData.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:02:05.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Program.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\Program.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\Program.cs",
+              "RelativeToolTip": "Project_kindergarten\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:01:55.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "teacher_portal.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\teacher_portal.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\teacher_portal.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\teacher_portal.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\teacher_portal.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:01:47.291Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TeacherData.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\TeacherData.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\TeacherData.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\TeacherData.cs",
+              "RelativeToolTip": "Project_kindergarten\\TeacherData.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:01:41.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserAccount.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\UserAccount.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\UserAccount.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\UserAccount.cs",
+              "RelativeToolTip": "Project_kindergarten\\UserAccount.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:01:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\UserRole.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\UserRole.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\UserRole.cs",
+              "RelativeToolTip": "Project_kindergarten\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T21:01:28.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "logging_form.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\logging_form.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\logging_form.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\logging_form.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\logging_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:20.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "administrator_form.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\administrator_form.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\administrator_form.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\administrator_form.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\administrator_form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:18.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "admin_personnelcs.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_personnelcs.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\admin_personnelcs.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_personnelcs.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\admin_personnelcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:17.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admin_kinder.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_kinder.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\admin_kinder.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_kinder.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\admin_kinder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:15.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "admin_groups.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_groups.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\admin_groups.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_groups.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\admin_groups.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:13.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "admin_edit_groups.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_edit_groups.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\admin_edit_groups.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_edit_groups.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\admin_edit_groups.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:11.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "admin_add_groups.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_add_groups.cs",
+              "RelativeDocumentMoniker": "Project_kindergarten\\admin_add_groups.cs",
+              "ToolTip": "D:\\C#\\Project_kindergarten_with_roles_teachers_parents\\Project_kindergarten\\admin_add_groups.cs [Design]",
+              "RelativeToolTip": "Project_kindergarten\\admin_add_groups.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T17:18:09.974Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
